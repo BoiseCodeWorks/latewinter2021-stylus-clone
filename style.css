@@ -1,0 +1,15 @@
+.stylus-image {
+    background-image: url("https://entreprenoria.com/wp-content/uploads/2016/04/The-Pros-and-Cons-of-Being-Your-Own-Boss-702x336.jpg");
+    height: 42vh;
+    background-size: cover;
+}
+
+.bg-map {
+    background-image: url("https://miro.medium.com/max/4064/1*qYUvh-EtES8dtgKiBRiLsA.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.navbar-dark {
+    background-color: black!important;
+}
